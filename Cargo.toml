@@ -10,6 +10,7 @@ readme = "README.md"
 license = "MIT"
 repository = "https://github.com/becheran/grid"
 documentation = "https://docs.rs/grid"
+publish = ["arcium"]
 
 [badges.gitlab]
 repository = "becheran/grid_ci"
